@@ -50,7 +50,7 @@ INSTALLED_APPS = [
     # 'whitenoise.runserver_nostatic',
     'pages',
     'accounts',
-    'env1',
+
 ]
 CRISPY_TEMPLATE_PACK = 'bootstrap'
 
